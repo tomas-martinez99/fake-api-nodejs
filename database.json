@@ -8,7 +8,6 @@
       "DELETE"
     ],
     "products": [
-      "GET",
       "POST",
       "PUT",
       "PATCH",
@@ -167,7 +166,7 @@
       "modifiedAt": 1616246055000
     }
   ],
-  "products":[
+  "products": [
     {
       "id": 1,
       "name": "Procesador Intel Core i9-10900K",
