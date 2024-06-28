@@ -9,20 +9,25 @@
       "password": "admin",
       "phone": "933-658-1213",
       "addres": "xxxxx",
-      "status": true 
+      "status": true,
+      "rol": "admin"
+    },
+    {
+      "id": 2,
+      "firstName": "tomas",
+      "lastName": "mar",
+      "username": "asd",
+      "email": "asd@asd",
+      "password": "asd",
+      "phone": "asd",
+      "address": "asd",
+      "status": true,
+      "rol": "user",
+      "createdAt": 1719616646849,
+      "modifiedAt": 1719616646849
     }
-  
   ],
   "products": [
-    {
-      "id": 1,
-      "name": "Procesador Intel Core i9-10900K",
-      "brand": "Intel",
-      "type": "Procesador",
-      "price": 599.99,
-      "img": "https://images-na.ssl-images-amazon.com/images/I/61qUfPKfqJL.jpg",
-      "available": true
-    },
     {
       "id": 2,
       "name": "Tarjeta Gráfica NVIDIA GeForce RTX 3080",
@@ -67,11 +72,6 @@
       "price": 649.99,
       "img": "https://i.blogs.es/a22729/captura-de-pantalla-2020-11-18-a-las-20.55.29/original.png",
       "available": true
-    },
-    {
-      "createdAt": 1718232144588,
-      "modifiedAt": 1718232144588,
-      "id": 7
     }
   ]
 }
